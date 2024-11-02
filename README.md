@@ -139,7 +139,6 @@ Run the tests using Cargo:
 - Verify that the Soroban SDK is correctly configured.
 - Check error messages for specific issues during deployment or execution.
 
-This documentation provides a comprehensive guide to understanding, setting up, and using the P2P Marketplace Escrow smart contract. For further assistance, please refer to the Soroban SDK documentation or contact the project maintainers.
 
 
 
