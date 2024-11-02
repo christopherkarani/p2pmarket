@@ -8,7 +8,7 @@ The P2P Marketplace Escrow smart contract facilitates secure and efficient trans
 
 ## User Story: Buyer on Bebop App P2P Marketplace
 
-# As a Buyer who wants to purchase cryptocurrency through Bebop App’s P2P Marketplace, I want a simple, secure, and reliable way to purchase digital assets directly from other users so that I can acquire crypto quickly using my preferred payment method.
+#### As a Buyer who wants to purchase cryptocurrency through Bebop App’s P2P Marketplace, I want a simple, secure, and reliable way to purchase digital assets directly from other users so that I can acquire crypto quickly using my preferred payment method.
 
 ## Discovery and Selection:
    - I log into my Bebop App account and navigate to the P2P platform.
