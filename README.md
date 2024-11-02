@@ -32,11 +32,6 @@ The P2P Marketplace Escrow smart contract facilitates secure and efficient trans
    - I have successfully purchased cryptocurrency through a quick and secure process.
 
 
-
-
-
-
-
 ## User Story: Seller on Bebop App P2P Marketplace
 
 #### As a Seller who wants to exchange cryptocurrency for fiat currency using Bebop App P2PMarketplace, I want to be able to post offers, screen buyers, and securely receive payment before releasing my crypto so that I can confidently transact without risking my assets.
@@ -83,7 +78,7 @@ Ensure you have the following dependencies installed:
 
 ### Build Instructions
 1. Clone the repository:
-   2. Build the project:
+2. Build the project:
    
 ### Deployment Steps
 1. Deploy the contract using Soroban CLI:
