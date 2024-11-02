@@ -39,7 +39,7 @@ The P2P Marketplace Escrow smart contract facilitates secure and efficient trans
 
 ## User Story: Seller on Bebop App P2P Marketplace
 
-### As a Seller who wants to exchange cryptocurrency for fiat currency using Bebop App P2PMarketplace, I want to be able to post offers, screen buyers, and securely receive payment before releasing my crypto so that I can confidently transact without risking my assets.
+#### As a Seller who wants to exchange cryptocurrency for fiat currency using Bebop App P2PMarketplace, I want to be able to post offers, screen buyers, and securely receive payment before releasing my crypto so that I can confidently transact without risking my assets.
 
 ## Setting Up an Offer:
    - I log into my Bebop App account and navigate to the P2P Marketplace.
